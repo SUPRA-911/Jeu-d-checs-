@@ -1,0 +1,19 @@
+@startuml
+left to right direction
+actor Joueur as player
+actor "Système" as system
+
+rectangle "Jeu d'Échecs" {
+  player -- (Démarrer Partie)
+  player -- (Faire un Mouvement)
+  (Faire un Mouvement) .> (Vérifier Mouvement) : include
+  (Faire un Mouvement) -- system
+  player -- (Finir Partie)
+  (Finir Partie) -- system
+  (Vérifier Mouvement) -- system
+  player -- (Voir Règles)
+  system -- (Afficher Statistiques)
+  (Finir Partie) .> (Afficher Statistiques) : include
+}
+
+@enduml
