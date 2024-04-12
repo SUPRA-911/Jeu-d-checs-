@@ -49,9 +49,7 @@ Le Jeu d'Échecs Adapté conçu pour offrir une expérience ludique enrichie en 
 
 (Pointez vers des instructions détaillées pour configurer l'environnement de développement, lancer le jeu, et utiliser les principales fonctionnalités. Ceci est généralement inclus dans des sections distinctes ou des fichiers spécifiques comme `INSTALL.md`.)
 
-## Contribuer
 
-Nous sommes enthousiastes à l'idée de collaborer avec d'autres développeurs et créateurs de contenu! Si vous souhaitez contribuer, veuillez consulter notre guide de contribution (habituellement contenu dans un fichier `CONTRIBUTING.md`).
 
 ## Licence
 
