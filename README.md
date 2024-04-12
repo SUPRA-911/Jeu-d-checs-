@@ -14,7 +14,6 @@ Avril 2024
 
 Le Jeu d'Échecs Adapté conçu pour offrir une expérience ludique enrichie en combinant tradition et innovation. Nous avons introduit des terrains variés, de nouvelles règles, pièces inédites et une dimension éducative renforcée par l'intelligence artificielle, visant à rendre le jeu accessible et enrichissant pour tous.
 
-![Echecs](images/chess_board.jpg)
 
 ## Objectifs
 
