@@ -54,7 +54,7 @@ Nous sommes enthousiastes à l'idée de collaborer avec d'autres développeurs e
 
 ## Licence
 
-(Indiquez la licence sous laquelle le projet est distribué. Cela pourrait être, par exemple, une licence MIT, GPL, etc.)
+
 
 ---
 
