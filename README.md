@@ -35,7 +35,7 @@ Le Jeu d'Échecs Adapté conçu pour offrir une expérience ludique enrichie en 
 
 ### Fonctionnalités Utilisateur
 
-- **Choix du Mode et des Règles** Personnalisation de l'expérience de jeu.
+- **Choix du Mode et des Règles** Personnalisation de l'expérience de jeu. -
   DSUC1: Sélection du Mode de Jeu
 -![Project Banner](https://i.postimg.cc/vBgVxk9w/image.png)
 - **Apprentissage Interactif** et **Pratique avec l'IA**.
