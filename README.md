@@ -1,5 +1,4 @@
 # Jeu d'Échecs Adapté
-
 ## Auteurs
 
 - Maddouri Mohamed Khalil
