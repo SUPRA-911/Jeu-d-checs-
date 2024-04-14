@@ -36,6 +36,7 @@ Le Jeu d'Échecs Adapté conçu pour offrir une expérience ludique enrichie en 
 ### Fonctionnalités Utilisateur
 
 - **Choix du Mode et des Règles** Personnalisation de l'expérience de jeu.
+![Project Banner](https://ibb.co/b2SVTPp)
 - **Apprentissage Interactif** et **Pratique avec l'IA**.
 - **Conseils Stratég** en temps réel et **Révision de Parties**.
 
