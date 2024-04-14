@@ -35,13 +35,13 @@ Le Jeu d'Échecs Adapté conçu pour offrir une expérience ludique enrichie en 
 
 ### Fonctionnalités Utilisateur
 
-- **Choix du Terrain et des Règles** Personnalisation de l'expérience de jeu.
+- **Choix du Mode et des Règles** Personnalisation de l'expérience de jeu.
 - **Apprentissage Interactif** et **Pratique avec l'IA**.
 - **Conseils Stratég** en temps réel et **Révision de Parties**.
 
 ## Priorités des Cas d'Utilisation pour le Premier Sprint
 
-1. **Sélection du Terrain de Jeu**
+1. **Sélection du Mode de Jeu**
 2. **Entraînement et Tutoriels interactifs**
 3. **Partie contre l'IA avec Conseils**
 
