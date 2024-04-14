@@ -37,9 +37,9 @@ Le Jeu d'Échecs Adapté conçu pour offrir une expérience ludique enrichie en 
 
 - **DSUC1 :Choix du Mode et des Règles** Personnalisation de l'expérience de jeu.
 -![Project Banner](https://i.postimg.cc/vBgVxk9w/image.png)
-- **DSUC2 :Apprentissage Interactif** et **Pratique avec l'IA**.
+- **DSUC2 :Apprentissage Interactif** et **Pratique avec l'IA.
 -![Project Banner](https://i.postimg.cc/9MtLKD8f/DSUC2.png)
-- **DSUC3 :Conseils Stratég** en temps réel et **Révision de Parties**.
+- **DSUC3 :Conseils Stratég** en temps réel et **Révision de Parties.
 -![Project Banner](https://i.postimg.cc/tChFzKcX/DSUC3.png)
 
 ## Priorités des Cas d'Utilisation pour le Premier Sprint
