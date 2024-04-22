@@ -44,6 +44,10 @@ Le Jeu d'Échecs Adapté conçu pour offrir une expérience ludique enrichie en 
 - **DSUC3 :Conseils Stratég** en temps réel et **Révision de Parties.
 -![Project Banner](https://i.postimg.cc/tChFzKcX/DSUC3.png)
 
+### Diagrammes de machine à états
+-![Project Banner](https://i.postimg.cc/hjLGbK2Q/22.png)
+-![Project Banner](https://i.postimg.cc/y6TdDYJw/222.png)
+
 ## Priorités des Cas d'Utilisation pour le Premier Sprint
 
 1. **Sélection du Mode de Jeu**
