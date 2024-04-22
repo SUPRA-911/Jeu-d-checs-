@@ -32,6 +32,9 @@ Le Jeu d'Échecs Adapté conçu pour offrir une expérience ludique enrichie en 
 - **Joueurs** : Novices, intermédiaires, et experts
 - **Système (IA)** pour l'apprentissage et les conseils
 
+### Diagramme de classe
+-![Project Banner](https://i.postimg.cc/mDVdHsNT/image.png)
+
 ### Fonctionnalités Utilisateur
 
 - **DSUC1 :Choix du Mode et des Règles** Personnalisation de l'expérience de jeu.
