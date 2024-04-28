@@ -33,7 +33,7 @@ Le Jeu d'Échecs Adapté conçu pour offrir une expérience ludique enrichie en 
 - **Système (IA)** pour l'apprentissage et les conseils
 
 ### Diagramme de classe
-![Project Banner](https://i.postimg.cc/mDVdHsNT/image.png)
+![Project Banner](https://i.postimg.cc/PJY3q5RC/diagrammedeclasse.png)
 
 ### Fonctionnalités Utilisateur
 
