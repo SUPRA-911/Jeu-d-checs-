@@ -10,7 +10,7 @@
 
 Avril 2024
 
-![Chess Background](https://i.postimg.cc/brx7Bg8V/background.jpg)
+![Chess Background](https://i.postimg.cc/zGt96VZN/background1.png)
 
 ## Introduction
 
