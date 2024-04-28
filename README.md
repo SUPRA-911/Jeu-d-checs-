@@ -1,4 +1,4 @@
-![Jeu d'Échecs Adapté Logo](https://i.postimg.cc/zG7JBJs2/chess-pieces-vector-illustration-king-600nw-1940151418-1.png)
+![Jeu d'Échecs Adapté Logo](https://i.postimg.cc/3w6Q4Wn1/chess-pieces-vector-illustration-king-600nw-1940151418-2.png)
 # Jeu d'Échecs Adapté
 ## Auteurs
 
